@@ -1,1 +1,1 @@
-# This is my first C program project(SDP-1) for university.
+This is my first C program project(SDP-1) for university.
